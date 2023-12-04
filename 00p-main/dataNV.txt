@@ -1,0 +1,10 @@
+1,1001,Tran Van,An,2004-08-01,10001,17.2
+1,1002,Nguyen Van,Chim,2003-11-07,0,20.8
+2,1004,Dang Chi,Cuong,2004-09-05,10002,8
+1,1007,Nguyen Le Thanh,Bang,1999-09-09,10002,23.2
+2,1008,Doan Chi,Hao,2004-03-30,0,3
+2,1009,Tran Le Nhat,Kien,2002-03-08,10001,12
+2,1012,Le Thi,Lan,2004-10-04,10002,9
+1,1013,Nguyen Tran Minh,Long,2000-10-10,0,21.8
+1,1015,Le Thi Nhat,Anh,2001-08-23,0,22.0
+2,1018,Nguyen Chau,Ngan,1989-12-03,0,5
